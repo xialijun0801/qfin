@@ -44,7 +44,7 @@ Linear regression is the most heavily tested topic in statistics. Unfortunately,
 
 If you rarely program in C/C++, start with [C++ Design Patterns and Derivatives Pricing](http://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628). This is by no means a complete introduction, but it gives you a taste of C++. 
 
-Try use a **build system**, do not use an IDE.  I prefer the naive [makefile](http://www.amazon.com/Managing-Projects-Make-Nutshell-Handbooks/dp/0596006101) and the advanced [CMake](http://www.cmake.org/). (My personal view is Autotools is unpretty and out-dated.)
+Try using a **build system**, do not use an IDE.  I prefer the naive [makefile](http://www.amazon.com/Managing-Projects-Make-Nutshell-Handbooks/dp/0596006101) and the advanced [CMake](http://www.cmake.org/). (My personal view is Autotools is unpretty and out-dated.)
 
 You **must** finish Scott Meyers'
 
