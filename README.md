@@ -59,5 +59,7 @@ and these packages as well:
 - stringr
 - lubridate
 
+Be sure to familarize yourself with the usage and output of these functions: `lm`, `glm`, `anova`, `summary.lm`, `plot.lm`.
+
 ## Python
 
