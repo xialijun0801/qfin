@@ -36,7 +36,7 @@ Cracking the Coding Interviews by [Careercup.com](http://www.careercup.com/) *
 
 Linear regression is the most heavily tested topic in statistics. Unfortunately, there is not single book that summarises all need-to-know knowledge. Greene's [Econometric Analysis](http://www.amazon.com/Econometric-Analysis-7th-William-Greene/dp/0131395386) * might be an overshoot due to its length. Honestly, if you are able to manually calculate all outputs from R regression functions (see my comment about R), you should be fine.
 
-[Analysis of Financial Time Series](http://www.amazon.com/Analysis-Financial-Time-Series-Ruey/dp/0470414359) * I personally like other books more, but this book expose one to the most number of time series models.
+[Analysis of Financial Time Series](http://www.amazon.com/Analysis-Financial-Time-Series-Ruey/dp/0470414359) * I personally like other books more, but this book exposes one to the most number of time series models.
 
 [Time Series Analysis](http://press.princeton.edu/titles/5386.html) A much better book, also more expensive.
 
