@@ -1,4 +1,4 @@
-[Expected Returns](http://www.amazon.com/Expected-Returns-Investors-Harvesting-Rewards/dp/1119990726) An insightful book. 
+[Expected Returns](http://www.amazon.com/Expected-Returns-Investors-Harvesting-Rewards/dp/1119990726) 
 
 ## Oil
 
