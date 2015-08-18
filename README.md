@@ -46,6 +46,8 @@ If you rarely program in C/C++, start with [C++ Design Patterns and Derivatives 
 
 Try using a **build system**, do not use an IDE.  I prefer the naive [makefile](http://www.amazon.com/Managing-Projects-Make-Nutshell-Handbooks/dp/0596006101) and the advanced [CMake](http://www.cmake.org/). (My personal view is Autotools is unpretty and out-dated.)
 
+Try writing C++ using only objects. Templates are nice to have as well.
+
 You **must** finish Scott Meyers'
 
 - [Effective C++](http://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876) *
