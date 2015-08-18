@@ -44,7 +44,7 @@ Linear regression is the most heavily tested topic in statistics. Unfortunately,
 
 If you rarely program in C/C++, start with [C++ Design Patterns and Derivatives Pricing](http://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628). This is by no means a complete introduction, but it gives you a taste of C++. 
 
-You **must** finish Scott Meyers' books:
+You **must** finish Scott Meyers'
 
 - [Effective C++](http://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876) *
 
