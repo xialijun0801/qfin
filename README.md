@@ -34,9 +34,30 @@ Cracking the Coding Interviews by [Careercup.com](http://www.careercup.com/) *
 
 ## Statistics
 
+Linear regression is the most heavily tested topic in statistics. Unfortunately, there is not single book that summarises all need-to-know knowledge. Greene's [Econometric Analysis](http://www.amazon.com/Econometric-Analysis-7th-William-Greene/dp/0131395386) * might be an overshoot due to its length.
+
+[Analysis of Financial Time Series](http://www.amazon.com/Analysis-Financial-Time-Series-Ruey/dp/0470414359) * I personally like other books more, but this book expose one to the most number of time series models.
+
+[Time Series Analysis](http://press.princeton.edu/titles/5386.html) A much better book, also more expensive.
+
 ## C/C++
 
 ## R
+
+There's no real good book for R. Hadley's [Advanced R](http://adv-r.had.co.nz/) is an excellent book, but it is only for advanced users.
+
+Just read [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html) from www.r-project.org and get yourself familar with the following packages:
+
+- data.table
+- dplyr
+- foreach
+- ggplot2
+- reshape2
+
+and these packages as well:
+
+- stringr
+- lubridate
 
 ## Python
 
