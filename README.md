@@ -42,11 +42,13 @@ Linear regression is the most heavily tested topic in statistics. Unfortunately,
 
 ## C/C++
 
-If you rarely program in C/C++, start with [C++ Design Patterns and Derivatives Pricing](http://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628). This is by no means a complete introduction, but it gives you a taste of C++. 
+If you rarely program in C/C++, start with [C++ Design Patterns and Derivatives Pricing](http://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628). This is by no means a complete introduction, but it gives you an overview of the language. 
 
 Try using a **build system**, do not use an IDE.  I prefer the naive [makefile](http://www.amazon.com/Managing-Projects-Make-Nutshell-Handbooks/dp/0596006101) and the advanced [CMake](http://www.cmake.org/). (My personal view is Autotools is unpretty and out-dated.)
 
-Try writing C++ using only objects. Templates are nice to have as well.
+Try writing C++ using only objects. Templates are nice to have as well. Use [Design Patterns](https://sourcemaking.com/) whenever you can.  
+
+Here is a short but interesting article on [Expression Template](https://github.com/dmlc/mshadow/tree/master/guide/exp-template) that explains the basic usage of C++ templates.
 
 You **must** finish Scott Meyers'
 
