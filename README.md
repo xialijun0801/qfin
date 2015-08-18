@@ -76,6 +76,6 @@ and these packages as well:
 - lubridate
 - gridExtra
 
-Make sure you understand the usage and output of these functions: `lm`, `glm`, `anova`, `summary.lm`, `plot.lm`.
+Make sure you understand the usage and output of these functions: `lm`, `glm`, `anova`, `summary.lm`, `plot.lm`, `acf`, `pacf`.
 
 ## Python
