@@ -56,7 +56,7 @@ before your first C++ interview.  There's another book, [More Effective C++](htt
 
 There's no real good book for R. Hadley's [Advanced R](http://adv-r.had.co.nz/) is an excellent book, but it is only for advanced users.
 
-Just read [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html) from www.r-project.org and get yourself familar with the following packages:
+I would suggest starting from [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html) and familarize yourself with the following packages:
 
 - data.table
 - dplyr
@@ -69,7 +69,7 @@ and these packages as well:
 - stringr
 - lubridate
 
-Be sure to familarize yourself with the usage and output of these functions: `lm`, `glm`, `anova`, `summary.lm`, `plot.lm`.
+Be sure to understand the usage and output of these functions: `lm`, `glm`, `anova`, `summary.lm`, `plot.lm`.
 
 ## Python
 
