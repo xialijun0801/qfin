@@ -74,7 +74,15 @@ and these packages as well:
 
 - stringr
 - lubridate
+- Matrix
 - gridExtra
+
+Once you are fluent with R, take a look at these advanced packages:
+
+- Rcpp
+- devtools 
+- testthat 
+- roxygen2
 
 Make sure you understand the usage and output of these functions: `lm`, `glm`, `anova`, `summary.lm`, `plot.lm`, `acf`, `pacf`.
 
