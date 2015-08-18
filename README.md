@@ -46,9 +46,9 @@ If you rarely program in C/C++, start with [C++ Design Patterns and Derivatives 
 
 You **must** finish Scott Meyers' books:
 
-[Effective C++](http://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876) *
+- [Effective C++](http://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876) *
 
-[Effective STL](http://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629)
+- [Effective STL](http://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629)
 
 before any C++ interviews.  There's another book, [More Effective C++](http://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X), but I haven't read it yet.
 
