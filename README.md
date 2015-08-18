@@ -50,7 +50,7 @@ You **must** finish Scott Meyers' books:
 
 - [Effective STL](http://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629)
 
-before any C++ interviews.  There's another book, [More Effective C++](http://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X), but I haven't read it yet.
+before your first C++ interview.  There's another book, [More Effective C++](http://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X), but I haven't read it yet.
 
 ## R
 
