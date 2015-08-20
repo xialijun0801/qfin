@@ -50,7 +50,7 @@ Linear regression is the most heavily tested topic in statistics. Unfortunately,
 
 ## C/C++
 
-*comments on the usefullness*: 5 for quant equity strategists, 3 for quant macro strategists.
+*comments on the usefullness*: 5 for high frequency or algo trader/researcher, pricing quants (model validation  roles), start arb strategists.
 
 If you rarely program in C/C++, start with [C++ Design Patterns and Derivatives Pricing](http://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628). This is by no means a complete introduction, but it gives you an overview of the language. 
 
