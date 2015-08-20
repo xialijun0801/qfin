@@ -55,7 +55,7 @@ You **must** finish Scott Meyers'
 - [Effective C++](http://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876) *
 - [Effective STL](http://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629)
 
-before your first C++ interview.  There are other books, [More Effective C++](http://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X) and Effecive Mordern C++, but I haven't read them yet.
+before your first C++ interview.  There are other books, [More Effective C++](http://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X) and [Effecive Mordern C++](http://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996), but I haven't read them yet.
 
 ## R
 
