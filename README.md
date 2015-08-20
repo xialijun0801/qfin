@@ -1,7 +1,9 @@
 # qfin
-Books for Quant Finance Interviews
+Books for Quant Finance Interviews. (*comments on the usefulness* are based on the score of 0-5).
 
 ## Brain Teasers
+
+*comments on the usefullness*: 5 for fresh graduate, `max(2, 5 - #years of experience)` for experienced hire.
 
 ### Basic
 [A Practical Guide To Quantitative Finance Interviews](http://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662)
@@ -18,6 +20,8 @@ All Martin Gardner's books,
 
 ## Algorithms / Whiteboard Programming
 
+*comments on the usefullness*: 5 for high frequency or algo trader/researcher, pricing quants (model validation  roles), start arb strategists.
+
 [Algorithm for interviews](http://www.amazon.com/Algorithms-Interviews-Adnan-Aziz/dp/1453792996) *
 
 [Leetcode](https://leetcode.com/)
@@ -25,6 +29,8 @@ All Martin Gardner's books,
 Cracking the Coding Interviews by [Careercup.com](http://www.careercup.com/) *
 
 ## Quant Equity / Portfolio Theory
+
+*comments on the usefullness*: 5 for quant equity strategists, 4 for quant macro strategists.
 
 [Quantitative Equity Portfolio Management: Modern Techniques and Applications](http://www.amazon.com/Quantitative-Equity-Portfolio-Management-Applications/dp/1584885580) *
 
@@ -34,6 +40,8 @@ Cracking the Coding Interviews by [Careercup.com](http://www.careercup.com/) *
 
 ## Statistics
 
+*comments on the usefullness*: 5 for all roles.
+
 Linear regression is the most heavily tested topic in statistics. Unfortunately, there are not many good books on this topic (either too elementary or too advanced). Greene's [Econometric Analysis](http://www.amazon.com/Econometric-Analysis-7th-William-Greene/dp/0131395386) * might be an overshoot due to its length. Honestly, if you are able to manually calculate all outputs from R regression functions, you should be fine. (see my comments on R)
 
 [Analysis of Financial Time Series](http://www.amazon.com/Analysis-Financial-Time-Series-Ruey/dp/0470414359) * I personally like other books more, but this book exposes one to the most number of time series models.
@@ -41,6 +49,8 @@ Linear regression is the most heavily tested topic in statistics. Unfortunately,
 [Time Series Analysis](http://press.princeton.edu/titles/5386.html) A much better book, also more expensive.
 
 ## C/C++
+
+*comments on the usefullness*: 5 for quant equity strategists, 3 for quant macro strategists.
 
 If you rarely program in C/C++, start with [C++ Design Patterns and Derivatives Pricing](http://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628). This is by no means a complete introduction, but it gives you an overview of the language. 
 
@@ -58,6 +68,8 @@ You **must** finish Scott Meyers'
 before your first C++ interview.  There are other books, [More Effective C++](http://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X) and [Effecive Mordern C++](http://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996), but I haven't read them yet.
 
 ## R
+
+*comments on the usefullness*: not very heavily tested, but extremely helpful.
 
 There's no real good book for R. Hadley's [Advanced R](http://adv-r.had.co.nz/) is an excellent book, but it is only for advanced users.
 
@@ -86,3 +98,5 @@ Once you are fluent with R, take a look at these advanced packages:
 Make sure you understand the usage and output of these functions: `lm`, `glm`, `anova`, `summary.lm`, `plot.lm`, `acf`, `pacf`.
 
 ## Python
+
+*comments on the usefullness*: 5 for all roles
