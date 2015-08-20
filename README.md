@@ -69,7 +69,7 @@ before your first C++ interview.  There are other books, [More Effective C++](ht
 
 ## R
 
-*comments on the usefullness*: not very heavily tested, but extremely helpful.
+*comments on the usefullness*: not heavily tested during interviews, but very helpful.
 
 There's no real good book for R. Hadley's [Advanced R](http://adv-r.had.co.nz/) is an excellent book, but it is only for advanced users.
 
