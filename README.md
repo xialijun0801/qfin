@@ -3,7 +3,7 @@ Books for Quant Finance Interviews. (*comments on the usefulness* are based on t
 
 ## Brain Teasers
 
-*comments on the usefullness*: 5 for fresh graduate, `max(2, 5 - #years of experience)` for experienced hire.
+*comments on the usefullness*: 5 for fresh graduate, `max(2, 5 - #years of experience)` for experienced hires.
 
 ### Basic
 [A Practical Guide To Quantitative Finance Interviews](http://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662)
