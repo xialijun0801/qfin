@@ -98,5 +98,5 @@ Once you are fluent with R, take a look at these advanced packages:
 Make sure you understand the usage and output of these functions: `lm`, `glm`, `anova`, `summary.lm`, `plot.lm`, `acf`, `pacf`.
 
 ## Python
-
+-Python for data analysis by Wes McKinney
 *comments on the usefullness*: 5 for all roles
